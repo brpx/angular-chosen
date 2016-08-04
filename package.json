@@ -45,7 +45,8 @@
   ],
   "dependencies": {
     "angular": "^1.5.7",
-    "chosen-js": "^1.6.1",
+    "chosen": "git+ssh://git@github.com/nmjesus/chosen.git",
+    "chosen-js": "git+ssh://git@github.com/nmjesus/chosen.git",
     "jquery": "^3.0.0"
   },
   "bugs": {
