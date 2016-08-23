@@ -12,8 +12,8 @@
   ],
   "dependencies": {
     "jquery": "^2.0.3",
-    "chosen": "git://github.com/nmjesus/chosen.git",
-    "angular": "^1.4.9"
+    "angular": "^1.4.9",
+    "chosen": "git://github.com/nmjesus/chosen.git#^1.6.3"
   },
   "license": "MIT"
 }
