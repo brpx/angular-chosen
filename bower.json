@@ -13,7 +13,7 @@
   "dependencies": {
     "jquery": "^2.0.3",
     "angular": "^1.4.9",
-    "chosen": "git://github.com/nmjesus/chosen.git#^v1.6.5"
+    "chosen": "git://github.com/nmjesus/chosen.git#^v1.6.6"
   },
   "license": "MIT"
 }
