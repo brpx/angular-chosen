@@ -2,7 +2,7 @@
   "name": "angular-chosen-localytics",
   "repository": {
     "type": "git",
-    "url": "git://github.com/leocaseiro/angular-chosen.git"
+    "url": "git://github.com/brpx/angular-chosen.git"
   },
   "main": "dist/angular-chosen.js",
   "ignore": [
